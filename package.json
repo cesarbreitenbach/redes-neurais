@@ -7,7 +7,7 @@
   "type": "module",
   "main": "index.js",
   "scripts": {
-    "start": "node --no-warnings --watch redes_neurais/index.js",
+    "start": "node --no-warnings --watch index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
