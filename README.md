@@ -32,3 +32,7 @@ O modelo foi construído utilizando a API Sequencial do TensorFlow:
    ```bash
    npm install
    ```
+2. rode o programa:
+   ```bash
+   npm start
+   ```
