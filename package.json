@@ -1,0 +1,16 @@
+{
+  "name": "redes-neurais",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "cesarbreitenbach",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node --no-warnings --watch redes_neurais/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@tensorflow/tfjs-node": "4.22.0"
+  }
+}
