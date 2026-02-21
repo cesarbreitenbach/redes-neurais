@@ -5,6 +5,9 @@
   "license": "ISC",
   "author": "cesarbreitenbach",
   "type": "module",
+  "engines": {
+    "node": "<=22.10.0"
+  },
   "main": "index.js",
   "scripts": {
     "start": "node --no-warnings --watch index.js",
@@ -13,4 +16,5 @@
   "dependencies": {
     "@tensorflow/tfjs-node": "4.22.0"
   }
+  
 }
