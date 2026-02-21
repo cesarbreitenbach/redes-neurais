@@ -1,5 +1,9 @@
 # Classificação de Planos com Inteligência Artificial
 
+<p align="center">
+  <img src="./assets/exercicio00.png" alt="Arquitetura da Rede Neural" width="600">
+</p>
+
 Este repositório contém uma implementação de uma Rede Neural Artificial utilizando **TensorFlow.js** em ambiente **Node.js**. O modelo categoriza usuários entre três tipos de planos (Premium, Medium e Basic) baseando-se em comportamentos e dados demográficos.
 
 ## Tecnologias
